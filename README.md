@@ -30,17 +30,15 @@ Follow these steps to run the project locally:
    cd codeant-frontend-assignment
 
 2. Install the dependencies:
-
-```bash
-npm install
-# or
-yarn install
+   ```bash
+   npm install
+   # or
+   yarn install
 
 3. Start the development server:
-
-```bash
-npm start
-# or
-yarn start
+   ```bash
+   npm start
+   # or
+   yarn start
 
 4. Open your browser and navigate to http://localhost:3000 to view the application.
